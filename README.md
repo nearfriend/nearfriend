@@ -1,34 +1,39 @@
 <div align="center">
 
-# 👋 Hello, I'm nearfriend
+# 👋 Hi, I'm nearfriend
 
-### 🚀 Full Stack Developer • Open Source Enthusiast • Lifelong Learner
+### 🚀 Full Stack Developer • Open Source Enthusiast • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Applications;Clean+Code+%E2%9C%A8;Open+Source+Contributor;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Clean+Code+%7C+Smart+Design+%7C+Real+Impact;Building+Scalable+Applications;Always+Learning+New+Things" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nearfriend&label=Profile+Views&color=58A6FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=nearfriend&style=for-the-badge&color=58A6FF" />
 
 </div>
 
 ---
 
-# 🌌 About Me
+# 🌟 About Me
 
 ```yaml
-Name: nearfriend
-Focus: Full Stack Development
-Currently Learning:
-  - AI & Automation
-  - System Design
-  - Cloud Technologies
+name: nearfriend
+role: Full Stack Developer
 
-Interests:
-  - Open Source
-  - Modern UI/UX
-  - Backend Engineering
-  - Scalable Systems
+focus:
+  - Web Development
+  - Backend Systems
+  - AI + Automation
+
+currently_learning:
+  - System Design
+  - Cloud (Docker, DevOps)
+  - Advanced Backend Architecture
+
+goals:
+  - Build impactful open-source tools
+  - Contribute to large-scale projects
+  - Improve engineering fundamentals
 ```
 
 ---
@@ -37,7 +42,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,fastapi,tailwind,postgres,mongodb,docker,git,linux,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,fastapi,tailwind,postgres,mongodb,docker,git,linux,vscode" />
 
 </div>
 
@@ -47,9 +52,9 @@ Interests:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nearfriend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nearfriend&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearfriend&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearfriend&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -59,7 +64,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nearfriend&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nearfriend&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -69,7 +74,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nearfriend&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nearfriend&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -79,7 +84,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nearfriend&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nearfriend&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -87,15 +92,14 @@ Interests:
 
 # 🚀 Featured Projects
 
-<div align="center">
+### 🔹 Project One
+A scalable web application with clean architecture and modern UI.
 
-| Project | Description |
-|---|---|
-| 🚀 Awesome Project | Modern scalable application |
-| 🤖 AI Tool | AI-powered automation project |
-| 🌐 Web Platform | Full-stack modern web app |
+### 🔹 Project Two
+AI-powered automation tool to simplify workflows.
 
-</div>
+### 🔹 Project Three
+Full-stack system with authentication, database, and APIs.
 
 ---
 
@@ -111,11 +115,11 @@ Interests:
 
 ---
 
-# ✨ Developer Quote
+# 💡 Developer Mindset
 
 <div align="center">
 
-> “Consistency beats intensity.”
+> “Build simple. Make it work. Then make it better.”
 
 </div>
 
