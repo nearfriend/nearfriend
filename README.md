@@ -59,16 +59,6 @@ I focus on understanding systems deeply and improving them step by step.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/nearfriend/nearfriend/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🌿 Current Focus
 
 - Backend system design
