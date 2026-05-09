@@ -2,80 +2,60 @@
 
 # ✨ nearfriend
 
-### ⚡ Crafting scalable systems with code & curiosity
+### ⚡ Building clean, scalable software systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Systems;Always+Learning%2C+Always+Building" />
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Systems;Focused+on+clean+architecture;Learning+by+building" />
 
 </div>
 
 ---
 
-## 🌌 Identity
+## 🌌 About Me
 
-> I’m a developer who enjoys turning ideas into working systems.  
-> I focus on simplicity, performance, and long-term maintainability.
+I build software that is simple, maintainable, and practical.
+
+I prefer understanding systems deeply rather than adding unnecessary complexity.
 
 ---
 
-## 🧠 Core Philosophy
+## 🧠 Engineering Mindset
 
-```txt id="phi01"
-- Build things that solve real problems
-- Keep systems simple, not complex
-- Learn deeply, not quickly
-- Improve one project at a time
+```txt id="mind02"
+- Keep systems simple
+- Solve real problems
+- Avoid over-engineering
+- Focus on long-term maintainability
 ```
 
 ---
 
 ## ⚒️ Tech Stack
 
-<div align="center">
-
-**Languages**
-JavaScript • TypeScript • Python
-
-**Frontend**
-React • Next.js
-
-**Backend**
-Node.js • Express • FastAPI
-
-**Database**
-PostgreSQL • MongoDB
-
-**Tools**
-Git • Docker • Linux
-
-</div>
+**Languages:** JavaScript • TypeScript • Python  
+**Frontend:** React • Next.js  
+**Backend:** Node.js • Express • FastAPI  
+**Database:** PostgreSQL • MongoDB  
+**Tools:** Git • Docker • Linux
 
 ---
 
 ## 🌿 Current Focus
 
-- Building real-world full-stack applications
-- Improving backend system design
-- Learning scalable architecture patterns
-- Writing cleaner and more maintainable code
+- Backend system design
+- Full-stack application development
+- Writing production-ready code
+- Improving architecture thinking
 
 ---
 
-## 🌍 Connect
+## 🌍 Contact
 
-<div align="center">
-
-<a href="https://github.com/nearfriend">
-  <img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+- GitHub: https://github.com/nearfriend
 
 ---
 
 <div align="center">
 
-### ✨ “Simplicity is the ultimate sophistication.”
+> ✨ “Good code is simple, readable, and boring.”
 
 </div>
