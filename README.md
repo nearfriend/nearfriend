@@ -1,120 +1,103 @@
 <div align="center">
 
-# 👋 Hi, I'm nearfriend
+# ⚡ nearfriend
 
-### 🚀 Full Stack Developer • Open Source Enthusiast • Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Clean+Code+%7C+Smart+Design+%7C+Real+Impact;Building+Scalable+Applications;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Cyber+Developer+Mode+Activated;Building+Scalable+Systems;Clean+Code+%7C+Fast+Execution;Open+Source+Contributor" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nearfriend&style=for-the-badge&color=58A6FF" />
+<img src="https://komarev.com/ghpvc/?username=nearfriend&style=for-the-badge&color=00F5FF" />
 
 </div>
 
 ---
 
-# 🌟 About Me
+# 🧬 SYSTEM PROFILE
 
-```yaml
-name: nearfriend
-role: Full Stack Developer
-
-focus:
-  - Web Development
-  - Backend Systems
-  - AI + Automation
-
-currently_learning:
-  - System Design
-  - Cloud (Docker, DevOps)
-  - Advanced Backend Architecture
-
-goals:
-  - Build impactful open-source tools
-  - Contribute to large-scale projects
-  - Improve engineering fundamentals
+```bash id="sys01"
+> USER: nearfriend
+> ROLE: Full Stack Engineer
+> MODE: BUILD + OPTIMIZE + SHIP
+> STATUS: ACTIVE
 ```
 
 ---
 
-# ⚒️ Tech Stack
+# ⚙️ TECH CORE
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,fastapi,tailwind,postgres,mongodb,docker,git,linux,vscode" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,git,linux" />
+</p>
 
 ---
 
-# 🔥 Current Streak
+# 📊 SYSTEM METRICS
 
-<div align="center">
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nearfriend&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearfriend&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 ACTIVE STREAK
+
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=nearfriend&theme=tokyonight&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Activity
+# 📡 LIVE ACTIVITY GRID
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nearfriend&theme=tokyo-night&hide_border=true&area=true" />
 
-</div>
+</p>
 
 ---
 
-# 🏆 Achievements
+# 🏆 ACHIEVEMENTS UNLOCKED
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nearfriend&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=nearfriend&theme=matrix&no-frame=true&row=1&column=6"/>
 
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 🔹 Project One
-A scalable web application with clean architecture and modern UI.
-
-### 🔹 Project Two
-AI-powered automation tool to simplify workflows.
-
-### 🔹 Project Three
-Full-stack system with authentication, database, and APIs.
+</p>
 
 ---
 
-# 🌍 Connect With Me
+# 🚀 DEPLOYED PROJECTS
 
-<div align="center">
+### ⚡ Project Alpha
+Real-world scalable system with authentication + APIs
 
+### ⚡ Project Beta
+AI-powered automation tool with modern UI
+
+### ⚡ Project Gamma
+Full-stack web platform with database integration
+
+---
+
+# 🌐 CONNECTION NODE
+
+<p align="center">
 <a href="https://github.com/nearfriend">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-
-</div>
-
----
-
-# 💡 Developer Mindset
-
-<div align="center">
-
-> “Build simple. Make it work. Then make it better.”
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=footer"/>
+## 💡 “Build. Break. Improve. Repeat.”
 
 </div>
