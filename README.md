@@ -78,7 +78,8 @@ I focus on understanding systems deeply and improving them step by step.
 
 ## 🌍 Contact
 
-- GitHub: https://github.com/nearfriend
+- Gmail: rabbitwarrior0323@gmail.com
+- Telegram: https://t.me/lukanovak7
 
 ---
 
