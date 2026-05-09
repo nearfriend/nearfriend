@@ -1,75 +1,81 @@
 <div align="center">
 
-# Hi, I'm nearfriend 👋
+# ✨ nearfriend
 
-### Full Stack Developer • Builder • Lifelong Learner
+### ⚡ Crafting scalable systems with code & curiosity
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Systems;Always+Learning%2C+Always+Building" />
+
+---
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌌 Identity
 
-- I enjoy building web applications and backend systems
-- I like learning how things work under the hood
-- I prefer simple, clean, and maintainable code
-- Currently improving my system design and development skills
-- Open to collaboration and open-source contributions
+> I’m a developer who enjoys turning ideas into working systems.  
+> I focus on simplicity, performance, and long-term maintainability.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Core Philosophy
 
-**Languages & Tools I use:**
-
-- JavaScript / TypeScript
-- Python
-- React / Next.js
-- Node.js / Express
-- FastAPI
-- PostgreSQL / MongoDB
-- Git / Docker / Linux
+```txt id="phi01"
+- Build things that solve real problems
+- Keep systems simple, not complex
+- Learn deeply, not quickly
+- Improve one project at a time
+```
 
 ---
 
-## 📊 GitHub Stats
+## ⚒️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nearfriend&show_icons=true&theme=default&hide_border=true"/>
+**Languages**
+JavaScript • TypeScript • Python
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearfriend&layout=compact&theme=default&hide_border=true"/>
+**Frontend**
+React • Next.js
 
-</p>
+**Backend**
+Node.js • Express • FastAPI
 
----
+**Database**
+PostgreSQL • MongoDB
 
-## 🔥 Activity
+**Tools**
+Git • Docker • Linux
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nearfriend&theme=default&hide_border=true" />
-
-</p>
-
----
-
-## 🌱 Currently Working On
-
-- Improving backend architecture skills
-- Building small full-stack projects
-- Learning better development practices
+</div>
 
 ---
 
-## 📫 Contact
+## 🌿 Current Focus
 
-- GitHub: https://github.com/nearfriend
+- Building real-world full-stack applications
+- Improving backend system design
+- Learning scalable architecture patterns
+- Writing cleaner and more maintainable code
+
+---
+
+## 🌍 Connect
+
+<div align="center">
+
+<a href="https://github.com/nearfriend">
+  <img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-💡 *Keep building. Keep improving.*
+### ✨ “Simplicity is the ultimate sophistication.”
 
 </div>
