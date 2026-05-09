@@ -1,103 +1,75 @@
 <div align="center">
 
-# ⚡ nearfriend
+# Hi, I'm nearfriend 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Cyber+Developer+Mode+Activated;Building+Scalable+Systems;Clean+Code+%7C+Fast+Execution;Open+Source+Contributor" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nearfriend&style=for-the-badge&color=00F5FF" />
+### Full Stack Developer • Builder • Lifelong Learner
 
 </div>
 
 ---
 
-# 🧬 SYSTEM PROFILE
+## 👨‍💻 About Me
 
-```bash id="sys01"
-> USER: nearfriend
-> ROLE: Full Stack Engineer
-> MODE: BUILD + OPTIMIZE + SHIP
-> STATUS: ACTIVE
-```
-
----
-
-# ⚙️ TECH CORE
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,git,linux" />
-</p>
+- I enjoy building web applications and backend systems
+- I like learning how things work under the hood
+- I prefer simple, clean, and maintainable code
+- Currently improving my system design and development skills
+- Open to collaboration and open-source contributions
 
 ---
 
-# 📊 SYSTEM METRICS
+## 🛠 Tech Stack
 
-<p align="center">
+**Languages & Tools I use:**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nearfriend&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearfriend&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- JavaScript / TypeScript
+- Python
+- React / Next.js
+- Node.js / Express
+- FastAPI
+- PostgreSQL / MongoDB
+- Git / Docker / Linux
 
 ---
 
-# 🔥 ACTIVE STREAK
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=nearfriend&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nearfriend&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearfriend&layout=compact&theme=default&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📡 LIVE ACTIVITY GRID
+## 🔥 Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nearfriend&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://streak-stats.demolab.com?user=nearfriend&theme=default&hide_border=true" />
 
 </p>
 
 ---
 
-# 🏆 ACHIEVEMENTS UNLOCKED
+## 🌱 Currently Working On
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nearfriend&theme=matrix&no-frame=true&row=1&column=6"/>
-
-</p>
+- Improving backend architecture skills
+- Building small full-stack projects
+- Learning better development practices
 
 ---
 
-# 🚀 DEPLOYED PROJECTS
+## 📫 Contact
 
-### ⚡ Project Alpha
-Real-world scalable system with authentication + APIs
-
-### ⚡ Project Beta
-AI-powered automation tool with modern UI
-
-### ⚡ Project Gamma
-Full-stack web platform with database integration
-
----
-
-# 🌐 CONNECTION NODE
-
-<p align="center">
-<a href="https://github.com/nearfriend">
-<img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
+- GitHub: https://github.com/nearfriend
 
 ---
 
 <div align="center">
 
-## 💡 “Build. Break. Improve. Repeat.”
+💡 *Keep building. Keep improving.*
 
 </div>
